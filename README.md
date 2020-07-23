@@ -13,3 +13,4 @@ This project is not intended to be another boilerplate which includes a lot of l
 * [Styled-Components](https://styled-components.com/)
 * [React-Navigation v5](https://reactnavigation.org/)
 * [Airbnb's Eslint](https://www.npmjs.com/package/eslint-config-airbnb)
+* [React-Native Testing Library](https://github.com/callstack/react-native-testing-library)
